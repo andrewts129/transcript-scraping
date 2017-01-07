@@ -11,3 +11,5 @@ Python 3: https://www.python.org/downloads/
 Requests: http://docs.python-requests.org/en/master/
 
 BeautifulSoup:https://www.crummy.com/software/BeautifulSoup/
+
+I've also run the script for a few prominent politicans and uploaded the output here. They may be out of date, however.

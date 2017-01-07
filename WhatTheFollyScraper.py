@@ -112,6 +112,12 @@ for number in pagesToScrape:
                 if '– Part' in title:
                     indexOfPart = title.index('– Part')
                     title = title[:indexOfPart]
+
+                # If there are / in the title, it causes issues with the file path
+                title = title.replace('/', '')
+
+                # In case there is an article with a ridiculously long title
+                title = title[:230]
                 title = title.strip()
 
                 # There are a few speeches that are given the same article title because they were given by the same

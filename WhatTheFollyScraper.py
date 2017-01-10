@@ -99,7 +99,7 @@ for number in pagesToScrape:
                         # speech will continued in another article. If either one of these is found, that means there is
                         #  no more relevant text on the page and should move onto the next article
                         if text == '###' or text == '…':
-                            break
+                            pass
                         else:
                             # Adds the line processed to a list that will later be written to a text file
                             text = text.strip()

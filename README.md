@@ -1,4 +1,9 @@
 # transcript-scraping
+
+# NOTICE  
+It appears that whatthefolly.com has shut down as of Feb 2018, so this script will no longer work.
+
+
 Script that can scrape the transcripts of every speech a politician has given (as long as it's been recorded on whatthefolly.com) 
 
 Some assembly required. The script is currently set to scrape Donald Trump's speeches. 

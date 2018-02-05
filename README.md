@@ -1,5 +1,3 @@
-# transcript-scraping
-
 # NOTICE  
 It appears that whatthefolly.com has shut down as of Feb 2018, so this script will no longer work.
 
